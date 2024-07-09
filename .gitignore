@@ -1,0 +1,152 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Pytest
+.cache
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre
+.pyre/
+
+# pytype
+.pytype/
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Secrets
+*.pem
+*.key
+
+# dotenv
+.env
+.env.local
+.env.production
+.env.test
+.env.*.local
+
+# fastapi
+__pycache__/
+
+# SQL database
+*.sqlite3
+*.db
+*.sqlite
+
+# Alembic
+migrations/
+
+# SQLAlchemy
+*.db
+
+# Test coverage
+.coverage
+.tox/
+.nox/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*~
+.project
+.pydevproject
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.user
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+.nfs*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Logs and temp files
+*.log
+*.out
+*.tmp
+
+# Sentry DSN configuration
+.sentryclirc
+
+# pyproject.toml
+poetry.lock
